@@ -1,0 +1,27 @@
+﻿# Git Ignore for Control Resonant Mac Port
+
+# --- Build Artifacts ---
+build/
+*.o
+*.out
+*.exe
+ControlResonant_Mac
+*.app
+
+# --- Original Game Assets (DO NOT PUSH TO GITHUB) ---
+# We ignore the original game files to avoid copyright issues
+# and to keep the repository size small.
+assets/
+*.lua
+*.bin
+*.pak
+*.dat
+*.exe
+*.dll
+
+# --- OS / IDE files ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp

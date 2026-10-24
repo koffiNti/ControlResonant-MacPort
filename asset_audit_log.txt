@@ -1,0 +1,15 @@
+Starting Asset Audit...
+Scanning: C:\Games\CONTROL Resonant
+FOUND: C:\Games\CONTROL Resonant\bink2w64.dll
+FOUND: C:\Games\CONTROL Resonant\cohtml.WindowsDesktop.dll
+FOUND: C:\Games\CONTROL Resonant\cohtml_icuuc.dll
+Scanning: C:\Games\CONTROL Resonant\data
+Scanning: C:\Games\CONTROL Resonant\data\lualibs
+Scanning: C:\Games\CONTROL Resonant\data\shaders
+Scanning: C:\Games\CONTROL Resonant\data\shaders\build
+Scanning: C:\Games\CONTROL Resonant\data\shaders\build\pc_dx12
+FOUND: C:\Games\CONTROL Resonant\data\shaders\build\pc_dx12\bink.binrfx
+Scanning: C:\Games\CONTROL Resonant\data_pack2
+Scanning: C:\Games\CONTROL Resonant\data_pack2\generic
+Scanning: C:\Games\CONTROL Resonant\data_pack2\pc
+Scanning: C:\Games\CONTROL Resonant\_Redist

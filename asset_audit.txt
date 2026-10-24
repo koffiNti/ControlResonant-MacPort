@@ -1,0 +1,4 @@
+C:\Games\CONTROL Resonant\bink2w64.dll
+C:\Games\CONTROL Resonant\cohtml.WindowsDesktop.dll
+C:\Games\CONTROL Resonant\cohtml_icuuc.dll
+C:\Games\CONTROL Resonant\data\shaders\build\pc_dx12\bink.binrfx

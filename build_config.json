@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "v8": "latest",
+    "glm": "latest",
+    "metal": "macos-sdk"
+  },
+  "build_target": "macOS",
+  "architecture": "arm64",
+  "compiler": "clang++",
+  "flags": [
+    "-std=c++17",
+    "-O3",
+    "-arch arm64",
+    "-framework Metal",
+    "-framework Foundation",
+    "-framework AppKit"
+  ]
+}
